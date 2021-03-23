@@ -1,0 +1,5 @@
+- I'm RemasteredArch  
+  - You may call me Arch  
+- You can reach me through... 
+  - My email at remasteredarch@gmail.com 
+  - My Reddit account at u/remasteredarch
