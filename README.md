@@ -1,5 +1,6 @@
-- I'm RemasteredArch, a user interested in exploring the worlds of Linux & coding. 
-  - You may call me Arch  
-- You can reach me through
-  - My email at remasteredarch@gmail.com 
-  - My Reddit account at u/remasteredarch
+- I'm RemasteredArch, a user interested in exploring the worlds of Linux & coding
+    - You may call me Arch
+    - He / they
+- I can be best reached through my email at remasteredarch (AT) gmail.com
+- Looking for work
+    - Junior role in software engineering / networking / system administration
